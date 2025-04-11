@@ -1,3 +1,4 @@
+# AJOSC
 Adaptive Join Order Selection for Continuous Queries.
 
 ## Publication
