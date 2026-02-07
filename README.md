@@ -5,7 +5,7 @@ Adaptive Join Order Selection for Continuous Queries.
 Xinyi Ye, Xiangyang Gou, Lei Zou, and Wenjie Zhang. 2025. AJOSC: Adaptive Join Order Selection for Continuous Queries. Proc. ACM Manag. Data 3, 3 (SIGMOD), Article 126 (June 2025), 27 pages. https://doi.org/10.1145/3725263
 
 Please cite our paper, if you use our source code.
-
+```
 @article{ajosc_2025,
 	title = {{AJOSC}: {Adaptive} {Join} {Order} {Selection} for {Continuous} {Queries}},
 	volume = {3},
@@ -20,7 +20,7 @@ Please cite our paper, if you use our source code.
 	year = {2025},
 	pages = {126:1--126:27},
 }
-
+```
 
 ## Compile
 ```
